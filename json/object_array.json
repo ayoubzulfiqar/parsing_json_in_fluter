@@ -1,0 +1,24 @@
+{
+  "tags": [
+    {
+      "name": "Alchemy",
+      "quantity": 12
+    },
+    {
+      "name": "Anti-Venom",
+      "quantity": 65
+    },
+    {
+      "name": "Aconite",
+      "quantity":35
+    },
+    {
+      "name": "Animas",
+      "quantity": 55
+    },
+    {
+      "name": "Dracula",
+      "quantity": 15
+    }
+  ]
+  }

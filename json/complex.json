@@ -1,0 +1,30 @@
+{
+    "title": "Harry Potter Movie",
+    "description": "Let's Watch harry Potter",
+    "author": {
+      "name": "Harry Potter",
+      "age": 10
+    },
+    "tags": [
+      {
+        "name": "Alchemy",
+        "quantity": 12
+      },
+      {
+        "name": "Anti-Venom",
+        "quantity": 65
+      },
+      {
+        "name": "Aconite",
+        "quantity":35
+      },
+      {
+        "name": "Animus",
+        "quantity": 55
+      },
+      {
+        "name": "Dracula",
+        "quantity": 15
+      }
+    ]
+  }
